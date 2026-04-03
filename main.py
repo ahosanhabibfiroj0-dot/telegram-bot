@@ -4,7 +4,7 @@ import sqlite3
 import os
 
 TOKEN = "8738759140:AAEpCdC1E82f_ai6K-m-6pu2sXWid4h1v7k"
-ADMIN_ID =7429993190
+ADMIN_ID = 7429993190
 
 bot = telebot.TeleBot(TOKEN)
 
